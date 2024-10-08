@@ -31,6 +31,10 @@ The dataset constructed for this project consists of monthly article traffic dat
 - **month**: The month in `YYYYMMDDHH` format indicating the time period for the pageviews.
 - **views**: The total number of views for the article during the specified month.
 
+### Visualizations
+
+Graphs from preliminary exploratory analysis can be found in the `visualizations` folder. Refer to  `professionalism-and-reproducibility.ipynb` for source code.
+
 ### Usage
 
 The main analysis is performed in the Jupyter notebook `professionalism-and-reproducibility.ipynb`. This notebook includes the following steps:
